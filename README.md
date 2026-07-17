@@ -1,13 +1,14 @@
 # mstserver
 MASTOWLAR SERVER; sistem izleme, dosya yönetimi ve web terminali sunan hafif ve güvenli bir sunucu panelidir. 🚀
 
-# MASTOWLAR Enterprise Server v2.0 🚀
+## 🏡 Kullanım Alanları (Ev & İş Yerleri)
 
-MASTOWLAR Enterprise Server, yerel ağınızdaki sistemleri tek bir merkezden izlemek, dosya sistemini yönetmek ve terminal komutlarını uzaktan güvenli bir şekilde çalıştırmak için geliştirilmiş hafif (lightweight), güvenli ve kurumsal düzeyde bir sunucu yönetim panelidir.
+MASTOWLAR Enterprise Server v2.0, esnek ve kaynak tüketmeyen mimarisi sayesinde hem kişisel hem de profesyonel ortamlarda güvenle kullanılabilir:
 
-Flask mimarisi üzerine inşa edilen bu platform, modern ve karanlık temalı bir kullanıcı arayüzü (Dark Neon UI) sunarak sistem yöneticilerinin günlük operasyonlarını kolaylaştırır.
+* **Ev Kullanıcıları İçin (Personal/Home Lab):** Evinizdeki eski bir bilgisayarı veya sunucuyu multimedya deposu ya da kişisel sunucu olarak kullanıyorsanız; panele evdeki diğer bilgisayarlardan veya telefonlardan bağlanarak sistem sıcaklığını/durumunu izleyebilir, içerideki dosyalarınızı kolayca yönetebilirsiniz.
+* **İş Yerleri İçin (SMB / Enterprise Office):** Küçük ve orta ölçekli ofislerde, yerel ağda (LAN) çalışan dosya sunucularınızı (File Server) veya şirket içi test makinelerinizi teknik ekibin tarayıcı üzerinden uzaktan yönetmesini, dosya transferi yapmasını ve gerektiğinde güvenli terminal komutları çalıştırmasını sağlar.
 
----
+*Not: Güvenliğiniz için iş yeri ve ev ağlarında sistemi ilk kez başlattıktan sonra varsayılan yönetici şifresini değiştirmeyi unutmayınız.*
 
 ## 🔥 Temel Özellikler
 
